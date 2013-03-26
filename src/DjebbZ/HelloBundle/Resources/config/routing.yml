@@ -1,4 +1,4 @@
-djebb_z_hello_homepage:
+djebbz_hello:
     pattern:  /hello/{name}
     defaults: { _controller: DjebbZHelloBundle:Default:index }
 
