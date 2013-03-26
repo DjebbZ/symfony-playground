@@ -12,9 +12,12 @@ class DefaultController extends Controller
         return $this->render('DjebbZHelloBundle:Default:index.html.twig', array('name' => $name));
     }
 
-    public function indexJsonAction($name)
+    public function indexJsonAction($name, $_route)
     {
-      $json = array('name' => $name );
+      $json = array(
+        'name' => $name,
+        'route' => $_route
+      );
       $response = new Response(json_encode($json));
       $response->headers->set('Content-Type', 'application/json');
 
