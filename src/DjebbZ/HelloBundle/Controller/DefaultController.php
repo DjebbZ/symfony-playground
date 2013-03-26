@@ -4,6 +4,7 @@ namespace DjebbZ\HelloBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\HttpFoundation\Request;
 
 class DefaultController extends Controller
 {
@@ -12,13 +13,9 @@ class DefaultController extends Controller
         return $this->render('DjebbZHelloBundle:Default:index.html.twig', array('name' => $name));
     }
 
-    public function indexJsonAction($name, $_route)
+    public function indexJsonAction(Request $request)
     {
-      $json = array(
-        'name' => $name,
-        'route' => $_route
-      );
-      $response = new Response(json_encode($json));
+      $response = new Response(json_encode($request));
       $response->headers->set('Content-Type', 'application/json');
 
       return $response;
