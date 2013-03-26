@@ -1,6 +1,6 @@
 djebbz_hello:
-    pattern:  /hello/{name}
+    path:  /hello/{name}
     defaults: { _controller: DjebbZHelloBundle:Default:index }
 
-    pattern: /request.json
+    path: /request.json
     defaults: { _controller: DjebbZHelloBundle:Default:indexJson }
