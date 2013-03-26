@@ -20,4 +20,10 @@ djebbz_ticket_ticket:
 
 djebbz_ticket_ticket_add:
     pattern:   /ticket/add
-    defaults:  { _controller: AcmeTestBundle:Test:action }
+    defaults:  { _controller: DjebbzTicketBundle:Default:ticket }
+    methods:    [GET]
+
+djebbz_ticket_ticket_add:
+    pattern:   /ticket/add
+    defaults:  { _controller: DjebbzTicketBundle:Default:ticketAdd }
+    methods:    [POST]
