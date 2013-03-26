@@ -1,0 +1,1995 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"data",
+				"datacenters"
+			],
+			[
+				"via",
+				"viaCpuRamRatio"
+			],
+			[
+				"ex",
+				"expert_mode"
+			],
+			[
+				"pro",
+				"provider"
+			],
+			[
+				"re",
+				"relevantProvidersStep1"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"ca",
+				"callback"
+			],
+			[
+				"insta",
+				"instance"
+			],
+			[
+				"off",
+				"offerPerInstance"
+			],
+			[
+				"ins",
+				"instancePrice"
+			],
+			[
+				"inst",
+				"instancePrice"
+			],
+			[
+				"ra",
+				"ratioInstance"
+			],
+			[
+				"ratio",
+				"ratioInstance"
+			],
+			[
+				"find",
+				"findClosestRatioByProvider"
+			],
+			[
+				"r",
+				"ratio"
+			],
+			[
+				"wan",
+				"wantedCPU"
+			],
+			[
+				"wa",
+				"wantedCPU"
+			],
+			[
+				"la",
+				"leastRAMInstance"
+			],
+			[
+				"l",
+				"leastRAMInstances"
+			],
+			[
+				"cl",
+				"closestRatioInstance"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"nb",
+				"nbInstances"
+			],
+			[
+				"sc",
+				"scripts"
+			],
+			[
+				"tes",
+				"testTextarea"
+			],
+			[
+				"req",
+				"requirements_expert"
+			],
+			[
+				"w",
+				"wrongInput"
+			],
+			[
+				"utilsa",
+				"utilisation "
+			],
+			[
+				"ob",
+				"object_storage_unit"
+			],
+			[
+				"traf",
+				"trafic_out_unit"
+			],
+			[
+				"tra",
+				"trafic_out_unit"
+			],
+			[
+				"trafi",
+				"trafic_in_unit"
+			],
+			[
+				"so",
+				"storage_unit"
+			],
+			[
+				"sot",
+				"storage_amount"
+			],
+			[
+				"ram",
+				"ram_unit"
+			],
+			[
+				"wanted",
+				"wantedRAM"
+			],
+			[
+				"usage",
+				"usage_duration"
+			],
+			[
+				"de",
+				"detailedOffers"
+			],
+			[
+				"perm",
+				"performanceAverages"
+			],
+			[
+				"D",
+				"DataTypes"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"type",
+				"typeString"
+			],
+			[
+				"wit",
+				"withFields"
+			],
+			[
+				"wi",
+				"withFields"
+			],
+			[
+				"instan",
+				"instanceType"
+			],
+			[
+				"fake",
+				"fakeInstanceType"
+			],
+			[
+				"fak",
+				"fakeInstanceType"
+			],
+			[
+				"instance",
+				"instanceType"
+			],
+			[
+				"instanc",
+				"instancePriceUsage"
+			],
+			[
+				"o",
+				"objectStoragePrice"
+			],
+			[
+				"want",
+				"wantedCPU"
+			],
+			[
+				"cpu",
+				"cpu_speed"
+			],
+			[
+				"nbI",
+				"nbInstancesRAM"
+			],
+			[
+				"be",
+				"best_reservation"
+			],
+			[
+				"e",
+				"engagement"
+			],
+			[
+				"get",
+				"getPrice"
+			],
+			[
+				"best",
+				"best_price"
+			],
+			[
+				"eng",
+				"engagement_duration"
+			],
+			[
+				"us",
+				"usage_duration"
+			],
+			[
+				"usa",
+				"usage_duration"
+			],
+			[
+				"set",
+				"setup_price"
+			],
+			[
+				"hour",
+				"hourly_price"
+			],
+			[
+				"detao",
+				"detailedOffers"
+			],
+			[
+				"det",
+				"detailedOffer"
+			],
+			[
+				"def",
+				"detailedOffers"
+			],
+			[
+				"pr",
+				"provider_id"
+			],
+			[
+				"c",
+				"category"
+			],
+			[
+				"pri",
+				"provider_id"
+			],
+			[
+				"vi",
+				"viaCpuRamRatio"
+			],
+			[
+				"cat",
+				"cat_cpu_ram"
+			],
+			[
+				"offer",
+				"offersInput"
+			],
+			[
+				"rati",
+				"ratio"
+			],
+			[
+				"fa",
+				"fakeInstanceType"
+			],
+			[
+				"wante",
+				"wantedRAM"
+			],
+			[
+				"da",
+				"datacenterPriceGrid"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"d",
+				"datacenter"
+			],
+			[
+				"provi",
+				"provider"
+			],
+			[
+				"p",
+				"provider_id"
+			],
+			[
+				"provider",
+				"provider_id"
+			],
+			[
+				"tr",
+				"trafic"
+			],
+			[
+				"sto",
+				"storage_unit"
+			],
+			[
+				"prov",
+				"provider"
+			],
+			[
+				"ma",
+				"matchedInstance"
+			],
+			[
+				"m",
+				"matchedInstance"
+			],
+			[
+				"t",
+				"totalPrice"
+			],
+			[
+				"in",
+				"indexOf"
+			],
+			[
+				"of",
+				"offersPerInstance"
+			],
+			[
+				"add",
+				"additionalStoragePrices"
+			],
+			[
+				"Da",
+				"Datacenter"
+			],
+			[
+				"wantedO",
+				"wantedObjectStorage"
+			],
+			[
+				"wantedT",
+				"wantedTraficOut"
+			],
+			[
+				"dat",
+				"datacenter"
+			],
+			[
+				"obje",
+				"object_go_price"
+			],
+			[
+				"obj",
+				"object_go_price"
+			],
+			[
+				"T",
+				"To2Go"
+			],
+			[
+				"ad",
+				"additionalStorage"
+			],
+			[
+				"bl",
+				"getBlockGoPrice"
+			],
+			[
+				"blo",
+				"block_go_price"
+			],
+			[
+				"s",
+				"storage_unit_price"
+			],
+			[
+				"st",
+				"storage_amount"
+			],
+			[
+				"cal",
+				"calculate"
+			],
+			[
+				"ind",
+				"index"
+			],
+			[
+				"stor",
+				"storage_unit"
+			],
+			[
+				"str",
+				"storage_amount"
+			],
+			[
+				"v",
+				"viaInstancePrice"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"cac",
+				"calculators"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"un",
+				"unitMap"
+			],
+			[
+				"mo",
+				"mostRAMInstances"
+			],
+			[
+				"asyn",
+				"asyncNext"
+			],
+			[
+				"as",
+				"asyncNext"
+			],
+			[
+				"ge",
+				"getNbInstancesPerRAM"
+			],
+			[
+				"cu",
+				"currentRAM"
+			],
+			[
+				"fin",
+				"findMostRAMByCategory"
+			],
+			[
+				"clos",
+				"closestInstance"
+			],
+			[
+				"bes",
+				"bestInstance"
+			],
+			[
+				"cp",
+				"ratio_cpu_ram"
+			],
+			[
+				"a",
+				"afun	Anonymous function"
+			],
+			[
+				"insa",
+				"instances_id"
+			],
+			[
+				"Wine",
+				"WineView"
+			],
+			[
+				"win",
+				"wineList"
+			],
+			[
+				"Win",
+				"WineListView"
+			],
+			[
+				"W",
+				"WineView"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/config/routing.yml",
+			"settings":
+			{
+				"buffer_size": 193,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/DjebbZ/TicketBundle/Resources/config/routing.yml",
+			"settings":
+			{
+				"buffer_size": 124,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"command_palette":
+	{
+		"height": 267.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"snip",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"exp",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instp",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"lispa",
+				"Package Control: List Packages"
+			],
+			[
+				"lstpa",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packain",
+				"Package Control: Install Package"
+			],
+			[
+				"prefix",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"snippet tes",
+				"Snippet: test"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Object Value JS"
+			],
+			[
+				"disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"snippet",
+				"Snippet: setTimeout function"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"packag",
+				"Package Control: Discover Packages"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"error",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"sub",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"suer",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"subl",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"pa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"id",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Coffee: Check Syntax"
+			],
+			[
+				"gitl",
+				"Git: Log Current File"
+			],
+			[
+				"inpa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/khalid_jebbari/Sites/symfony-playground/app/Resources/views/base.html.twig",
+		"/Users/khalid_jebbari/Sites/symfony-playground/app/AppKernel.php",
+		"/Users/khalid_jebbari/Sites/symfony-playground/app/config/config.yml",
+		"/Users/khalid_jebbari/Sites/symfony-playground/app/config/config_dev.yml",
+		"/Users/khalid_jebbari/Sites/symfony-playground/src/DjebbZ/HelloBundle/Resources/config/routing.yml",
+		"/Users/khalid_jebbari/Sites/symfony-playground/src/DjebbZ/HelloBundle/Controller/DefaultController.php",
+		"/Users/khalid_jebbari/Sites/symfony-playground/src/DjebbZ/HelloBundle/Resources/views/Default/index.html.twig",
+		"/Users/khalid_jebbari/Sites/symfony-playground/.git/COMMIT_EDITMSG",
+		"/Users/khalid_jebbari/Sites/symfony-playground/src/DjebbZ/TestBundle/DjebbZTestBundle.php",
+		"/Users/khalid_jebbari/Sites/symfony-playground/src/DjebbZ/HelloBundle/DjebbZHelloBundle.php",
+		"/Users/khalid_jebbari/Sites/symfony-playground/app/config/routing.yml",
+		"/Users/khalid_jebbari/Sites/symfony-playground/src/Acme/DemoBundle/Controller/DemoController.php",
+		"/Users/khalid_jebbari/Sites/symfony-playground/src/Acme/DemoBundle/Controller/SecuredController.php",
+		"/Users/khalid_jebbari/Sites/symfony-playground/src/Acme/DemoBundle/Controller/WelcomeController.php",
+		"/Users/khalid_jebbari/Sites/symfony-playground/composer.json",
+		"/Users/khalid_jebbari/Sites/symfony-playground/app/config/parameters.yml",
+		"/Users/khalid_jebbari/Sites/symfony-playground/.gitignore",
+		"/Users/khalid_jebbari/Sites/symfony-playground/app/config/parameters.yml.dist",
+		"/Users/khalid_jebbari/Sites/httpd-vhosts.conf",
+		"/etc/hosts",
+		"/Users/khalid_jebbari/Downloads/pcre-8.32/README",
+		"/etc/php.ini",
+		"/private/etc/php.ini",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/.git/COMMIT_EDITMSG",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/controllers/benchmark.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/test/model/instance.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/controllers/benchmarkExpert.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/controllers/requirements.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/test/fixtures/instances.json",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/Datacenter.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/Instance.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/InstanceType.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/Architecture.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/views/benchmarkResults.html",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/locales/fr/translation.json",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/locales/en/translation.json",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/views/benchmarkStorage.html",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/test/functional/seo.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/lib/expert.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/test/unit/benchmark.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/lib/benchmark.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/views/benchmarkUser/email.html",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/views/requirements_expert.html",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/lib/algorithm.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/views/requirements.xhr.html",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/test/fixtures/storageProviderDescriptions.json",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration/5.2-up.sql",
+		"/Users/khalid_jebbari/Documents/Projects/async-paris-js/index.html",
+		"/Users/khalid_jebbari/Documents/Projects/async-paris-js/humans.txt",
+		"/Users/khalid_jebbari/Documents/Projects/async-paris-js/robots.txt",
+		"/Users/khalid_jebbari/Documents/Project/async-paris-js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/controllers/benchmarkUser.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/package.json",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/test/functional/expert.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/test/fixtures/datacenters.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/views/benchmarkExpert.html",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/views/layout.topmenu.html",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/services/offerService.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/grunt.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/Provider.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration/5.1-up.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration/5.1-down.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration/5-up.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/test/fixtures/providers.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/test/fixtures/instanceTypes.json",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/InstancePrice.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/Catalog.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/locales/fr.json",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/locales/en.json",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/README.md",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/test/fixtures/instancePrices.json",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/test/fixtures/instancePriceUsages.json",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/ProviderOffer.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/test/fixtures/discounts.json",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/Discount.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration-data/5-down.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration-data/5-up.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/expert-mode-queries.md",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/lib/view/swig_filters.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/node_modules/async/lib/async.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/views/benchmark.html",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration-data/5.2-down.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration-data/5.2-up.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/test/model/datacenter.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration/5.8-down.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration/5.7-down.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration/5.6-down.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration/5.5-down.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration/5.4-down.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration/5.3-down.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration/5.2-down.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration/5.8-up.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration/5.7-up.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration/5.6-up.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration/5.5-up.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration/5.4-up.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration/5.3-up.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/5.7-up.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/test/unit/algorithm-fr.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/DatacenterPriceGrid.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/config/development.yaml",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/config/test.yaml",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/index.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/views/requirements_storage.html",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/views/layout.html",
+		"/Users/khalid_jebbari/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/khalid_jebbari/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/Exchange.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/5.5-up.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/server.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/Zone.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration/3-up.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/models/migration/4-up.sql",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/test/helpers/fixtureLoader.js",
+		"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/controllers/contact.js",
+		"/Users/khalid_jebbari/Documents/Javascript/learn-backbone-completely/backbone-cellar/server/wines.json",
+		"/Users/khalid_jebbari/Documents/Javascript/learn-backbone-completely/backbone-cellar/test/client.js",
+		"/Users/khalid_jebbari/Documents/Javascript/learn-backbone-completely/.git/COMMIT_EDITMSG",
+		"/Users/khalid_jebbari/Documents/Javascript/learn-backbone-completely/backbone-cellar/build.js",
+		"/Users/khalid_jebbari/Documents/Javascript/learn-backbone-completely/backbone-cellar/client/Wine.js",
+		"/Users/khalid_jebbari/Documents/Javascript/learn-backbone-completely/backbone-cellar/client/WineListView.js",
+		"/Users/khalid_jebbari/Documents/Javascript/learn-backbone-completely/backbone-cellar/client/WineListItemView.js",
+		"/Users/khalid_jebbari/Documents/Javascript/learn-backbone-completely/backbone-cellar/client/WineView.js",
+		"/Users/khalid_jebbari/Documents/Javascript/learn-backbone-completely/backbone-cellar/client/AppRouter.js",
+		"/Users/khalid_jebbari/Documents/Javascript/learn-backbone-completely/backbone-cellar/client/main.js",
+		"/Users/khalid_jebbari/Documents/Javascript/learn-backbone-completely/backbone-cellar/client/WineCollection.js",
+		"/Users/khalid_jebbari/Documents/Javascript/learn-backbone-completely/backbone-cellar/client/public/index.html",
+		"/Users/khalid_jebbari/Documents/Javascript/learn-backbone-completely/backbone-cellar/client/public/js/app.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/",
+			"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/node_modules/i18next/lib",
+			"<project>",
+			"/Users/khalid_jebbari/Documents/Software_setup/Javascript/i18next-node/lib",
+			"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/lib",
+			"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/test",
+			"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/views",
+			"/Users/khalid_jebbari/Documents/Projects/Cloudscreener/node_modules/zombie",
+			"/Users/khalid_jebbari/Documents/Projects/demo-dashboard/client/vendor/styles/bootstrap",
+			"/Users/khalid_jebbari/Documents/Projects/demo-dashboard/client",
+			"/Users/khalid_jebbari/Documents/Projects/demo-dashboard/client/app",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pattern",
+			"yaml",
+			"24B",
+			"extension=ap",
+			"pcre",
+			"extension=",
+			"exte",
+			"include_path",
+			"intl",
+			"results.offers",
+			"debu",
+			"fakeInstanceType",
+			"ratioInstance",
+			"\"provider_id\": 1",
+			"mostRAMInstance",
+			"ost",
+			"Est",
+			"popover",
+			"Espace de stockage (Go)",
+			"__count__ Go de stockage",
+			"build",
+			"testTextarea",
+			"(req\\.query\\..*amount) \\|\\| ('.*')",
+			"(req\\.query\\..*amount) \\|\\| ('')",
+			"__count__ mois",
+			"__count__ an",
+			"__count_ an",
+			" an",
+			"1 an",
+			"engagement",
+			"            ",
+			"CloudScreener Processing Unit de type",
+			"système d'exploitation __os__",
+			"durée d'utilisation : __number__ heures par mois",
+			"Localisation du datacenter",
+			"performanceAverages",
+			"(  \"features\": JSON\\.stringify\\(defaultFeatures\\))",
+			"  \"features\": JSON.stringify(defaultFeatures)",
+			"(  \"features\": JSON\\.stringify\\(defaultFeatures\\))",
+			"(\\s+\"transfert_go_price\":.*\\n)",
+			"results.detailedOffers[detailedOffer]",
+			"offer",
+			".t",
+			"fake",
+			"datacenter",
+			"/* debugger.*$",
+			"transitPrice",
+			"next",
+			"/* debugger.*$",
+			"debugg.*",
+			"o.",
+			"results.matchedInstance",
+			"id\": 45",
+			"'",
+			"debugger",
+			"debugger;",
+			"getPrice",
+			"\"utilisation intensive\\\":0}",
+			"\"utilisation modérée\\\":0,",
+			"\"utilisation légère\\\":0,",
+			"\"à la demande\\\":0,",
+			"utilisation intensive\\\":0",
+			"utilisation modérée\\\":0",
+			"\"utilisation légère\\\":0",
+			"\\\"à la demande\\\":0",
+			"getEngagement",
+			"o.engagement.duration",
+			"o.usage.usage_duration",
+			".usage.usage_duration",
+			"o.usage.usage_duration",
+			"o.instancePriceUsage.hourly_price",
+			"\"id\": 86",
+			"performance",
+			"price",
+			"console.log",
+			"debugg",
+			"catalog",
+			"id",
+			"offer.id",
+			"debug",
+			"options.",
+			"taskComplete",
+			"offerPerInstance",
+			"console.log('here');",
+			"this",
+			"o.next",
+			"provider",
+			"ratio",
+			"fake",
+			"price",
+			"next",
+			"findMostRAMByCategory",
+			"\"id\": 40",
+			"      describe('15 CPU, 0.032 TB RAM, 5 TB storage, 100 GB/month incoming trafic, 1500 kb/s outgoing trafic, 500 GB object storage, 1 year, Europe, Linux, office usage', function() {\n\n        \n\n      });\n\n",
+			"architectureOffer",
+			"Europe",
+			"debugger",
+			"additionalStoragePrices",
+			"additionalStorages",
+			"calculatorsInputs",
+			"provider",
+			"getOffersPerInstance",
+			"offersPerInstance",
+			"instances",
+			"closestRatioInstances",
+			"algo",
+			"super\\+alt\\+",
+			".Instance",
+			"storage_",
+			"proper storage",
+			"storage_",
+			"proper storage",
+			"storage_",
+			"proper storage",
+			"calculateStorage",
+			"storage_unit",
+			"storage_amount",
+			"storage_unit",
+			"storage_amount",
+			"storage_unit",
+			"storage_amount",
+			"storage",
+			"Instance",
+			"wantedStorage",
+			"Storage",
+			"ficIn",
+			"calculateIncomingTraficPrice",
+			"traficInPrice"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$1 ? numeral().unformat($1) : $2",
+			"CSPU",
+			"OS __os__",
+			"$1,\\n  \"sec_note\": 4.1,\\n  \"flex_note\": 4.4",
+			"$1,\\n  \"sec_note\": 4.1,\\n  \"flex_note\": 4.4\\n",
+			",\\n$1  \"sec_note\": 4.1,\\n  \"flex_note\": 4.4\\n",
+			"$1  \"perf_note\": 4.1,\\n",
+			"",
+			"$1  \"cat_CPU_RAM\": null,\\n",
+			"$1  \"cat_CPU_RAM\":",
+			"$1\"cat_CPU_RAM\": null",
+			"null",
+			"\"",
+			"}",
+			"{",
+			"  \"CPU/RAM\": null,",
+			"\"cpu_speed\": null,\\n \"CPU/RAM\": null,",
+			", ",
+			"$1$2",
+			"$1",
+			"($1, $2, $3, $4, $5, $6,",
+			"($1, $2, $3,",
+			"\\),",
+			"\\(",
+			"\\),",
+			"\\(",
+			"\\\"",
+			"{\"id\":$1,\"instance_id\":$2,\"os_id\":$3,\"engagement_id\":$4,\"datacenter_id\":null,\"setup_price\":$5,\"hourly_price\":$6,\"currency\":\"$7\"},",
+			"{\"id\":$1,\"instance_id\":$2,\"os_id\":$3,\"engagement_id\":$4,\"datacenter_id\":null,\"setup_price\":\"$5\",\"hourly_price\":\"$6\",\"currency\":\"$7\"},",
+			"{\"id\":$1,\"instance_id\":$2,\"os_id\":$3,\"engagement_id\":$4,\"datacenter_id\":$5,\"setup_price\":\"$6\",\"hourly_price\":\"$7\",\"currency\":\"$8\"},",
+			"{\"id\":$1,\"instance_id\":$2,\"os_id\":$3,\"engagement_id\":$4,\"datacenter_id\":$5,\"setup_price\":'$6',\"hourly_price\":'$7',\"currency\":$8},",
+			"{\"id\":$1,\"instance_id\":$2,\"os_id\":$3,\"engagement_id\":$4,\"datacenter_id\":$5,\"setup_price\":$6,\"hourly_price\":$7,\"currency\":$8},",
+			"UPDATE InstancePriceUsage SET setup_price = '$1', hourly_price = '$2' WHERE id = $3;",
+			"UPDATE InstancePriceUsage SET setup_price = '{\"à la demande\":0,\"utilisation légère\":0,\"utilisation modérée\":0,\"utilisation intensive\":0}', hourly_price = '{\"à la demande\":0,\"utilisation légère\":0,\"utilisation modérée\":0,\"utilisation intensive\":0}' WHERE id = $1;",
+			"UPDATE InstancePriceUsage SET setup_price = '{\"à la demande\":0,\"utilisation légère\":0,\"utilisation modérée\":0,\"utilisation intensive\":0}' WHERE id = $1;",
+			"^UPDATE InstancePriceUsage SET setup_price = '{\"à la demande\":0,\"utilisation légère\":0,\"utilisation modérée\":0,\"utilisation intensive\":0}' WHERE id = $1;",
+			"$1",
+			", '2013-02-21 12:03:06', '2013-02-21 12:03:06')$1",
+			"\\\\\"",
+			"\\\\n",
+			"\\\\\"",
+			"\\\\n",
+			"\\\\\"",
+			"\\\\n",
+			"\\\\\"",
+			"\\\\n",
+			"\\\\\"",
+			"\\\\n",
+			"\\\\\"",
+			"\\\"",
+			"\\\\n",
+			"\\n",
+			"Cloudscreener\n$1\n\"$1\"",
+			"Cloudscreener\n$1\n\"$1\"\\^",
+			"Cloudscreener\n$1\n",
+			"$1\n$1\n",
+			"\",$\n$1\n",
+			"\",\n$1\n",
+			": \n$1\n",
+			"$1\n$1\n",
+			"$1\n$1\n$1",
+			"&gt;",
+			"&lt;",
+			"__instanceType__",
+			"",
+			"instance",
+			"'",
+			"\"",
+			"\\\"",
+			"\"$1",
+			"\\\"",
+			"    components.push(t('__count__ <a href=\"#\" class=\"tooltiped\" rel=\"tooltip\" title=\"__tooltip__\">instance large</a> de calcul back office/base de données', { count: temp, tooltip: tooltip.large }));\n",
+			"\\\"",
+			"'$1\\\\\"$2\\\\\"$3'",
+			"'$1\\\"$2\\\"$3'",
+			"\\\"",
+			"t('",
+			"=\"$1\"",
+			"\"",
+			"for back office/database",
+			"for front office/webfor back office/database",
+			"for front office/web",
+			"='#'",
+			"='$1'",
+			"\"$1\"",
+			"\",",
+			"",
+			"$",
+			"__count__",
+			"",
+			"i18next.t(",
+			"",
+			"^",
+			"if (temp > 0)",
+			"t('__stockage__ $1', { __stockage__: $2 })",
+			"t('__nbInstances__ $1', { nbInstances: temp })",
+			"tileImage",
+			"",
+			"tileImage",
+			"",
+			"t\\($1\\)",
+			" temp$1",
+			" temp[1]",
+			"$1",
+			"app.get('/:lang/$1",
+			"app.get('/:lang/[1]",
+			"app.get('/:lang/(1)",
+			"",
+			"\\1",
+			"{1}",
+			"(1)",
+			"",
+			"provider_id",
+			"catalog_id",
+			"architecture_id",
+			"requirement_id",
+			"Provider",
+			"Catalog",
+			"Archite",
+			"Req",
+			"providerId",
+			"catalogId",
+			"architectureId",
+			"requirementId",
+			"",
+			"@itemBorderRadius",
+			"itemWidth",
+			"../fonts/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/config/routing.yml",
+					"settings":
+					{
+						"buffer_size": 193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"JSON": "javascript",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/DjebbZ/TicketBundle/Resources/config/routing.yml",
+					"settings":
+					{
+						"buffer_size": 124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								123
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"JSON": "javascript",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"djebhelcontr",
+				"src/DjebbZ/HelloBundle/Controller/DefaultController.php"
+			],
+			[
+				"djeb",
+				"src/DjebbZ/TestBundle/DjebbZTestBundle.php"
+			],
+			[
+				"app/confi",
+				"app/config/config.yml"
+			],
+			[
+				"djebbtestbu",
+				"src/DjebbZ/TestBundle/DjebbZTestBundle.php"
+			],
+			[
+				"djebbresvi",
+				"src/DjebbZ/HelloBundle/Resources/views/Default/index.html.twig"
+			],
+			[
+				"djebrout",
+				"src/DjebbZ/HelloBundle/Resources/config/routing.yml"
+			],
+			[
+				"appconrout",
+				"app/config/routing.yml"
+			],
+			[
+				"appconfi",
+				"app/config/config.yml"
+			],
+			[
+				"v/",
+				"views/benchmark.html"
+			],
+			[
+				"v/ben",
+				"views/benchmarkExpert.html"
+			],
+			[
+				"dat",
+				"models/Datacenter.js"
+			],
+			[
+				"conbenc",
+				"controllers/benchmark.js"
+			],
+			[
+				"archite",
+				"models/Architecture.js"
+			],
+			[
+				"v/req",
+				"views/requirements_expert.html"
+			],
+			[
+				"instanc",
+				"models/InstanceType.js"
+			],
+			[
+				"tran",
+				"locales/en/translation.json"
+			],
+			[
+				"lib/al",
+				"lib/algorithm.js"
+			],
+			[
+				"conben",
+				"controllers/benchmarkExpert.js"
+			],
+			[
+				"v/bencres",
+				"views/benchmarkResults.html"
+			],
+			[
+				"modedata",
+				"models/Datacenter.js"
+			],
+			[
+				"modeachi",
+				"models/Architecture.js"
+			],
+			[
+				"contbench",
+				"controllers/benchmark.js"
+			],
+			[
+				"contben",
+				"controllers/benchmarkExpert.js"
+			],
+			[
+				"modelinstan",
+				"models/InstanceType.js"
+			],
+			[
+				"contreq",
+				"controllers/requirements.js"
+			],
+			[
+				"fix/ins",
+				"test/fixtures/instances.json"
+			],
+			[
+				"mode/",
+				"models/Datacenter.js"
+			],
+			[
+				"mode/insty",
+				"models/InstanceType.js"
+			],
+			[
+				"modelinst",
+				"models/Instance.js"
+			],
+			[
+				"tes/mod/inst",
+				"test/model/instance.js"
+			],
+			[
+				"lib/ex",
+				"lib/expert.js"
+			],
+			[
+				"en/tra",
+				"locales/en/translation.json"
+			],
+			[
+				"v/bencs",
+				"views/benchmarkStorage.html"
+			],
+			[
+				"conbench",
+				"controllers/benchmark.js"
+			],
+			[
+				"v/email",
+				"views/benchmarkUser/email.html"
+			],
+			[
+				"test/unitbe",
+				"test/unit/benchmark.js"
+			],
+			[
+				"lib/ben",
+				"lib/benchmark.js"
+			],
+			[
+				"lib/",
+				"lib/expert.js"
+			],
+			[
+				"conreq",
+				"controllers/requirements.js"
+			],
+			[
+				"v/exp",
+				"views/requirements_expert.html"
+			],
+			[
+				"fixt/stordesc",
+				"test/fixtures/storageProviderDescriptions.json"
+			],
+			[
+				"5.2",
+				"models/migration/5.2-up.sql"
+			],
+			[
+				"test/mode",
+				"test/model/instance.js"
+			],
+			[
+				"mode/insta",
+				"models/Instance.js"
+			],
+			[
+				"exp",
+				"lib/expert.js"
+			],
+			[
+				"test/fun/ex",
+				"test/functional/expert.js"
+			],
+			[
+				"v/reqex",
+				"views/requirements_expert.html"
+			],
+			[
+				"contr/",
+				"controllers/benchmarkUser.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"contr/re",
+				"controllers/requirements.js"
+			],
+			[
+				"contr/ex",
+				"controllers/benchmarkExpert.js"
+			],
+			[
+				"v/re",
+				"views/requirements_expert.html"
+			],
+			[
+				"lay",
+				"views/layout.topmenu.html"
+			],
+			[
+				"en/tr",
+				"locales/en/translation.json"
+			],
+			[
+				"fr/tra",
+				"locales/fr/translation.json"
+			],
+			[
+				"tes/fun/ex",
+				"test/functional/expert.js"
+			],
+			[
+				"fr/tr",
+				"locales/fr/translation.json"
+			],
+			[
+				"algo",
+				"lib/algorithm.js"
+			],
+			[
+				"v/bex",
+				"views/benchmarkExpert.html"
+			],
+			[
+				"fix/da",
+				"test/fixtures/datacenters.js"
+			],
+			[
+				"model/prov",
+				"models/Provider.js"
+			],
+			[
+				"models/data",
+				"models/Datacenter.js"
+			],
+			[
+				"mode/inst",
+				"models/InstanceType.js"
+			],
+			[
+				"grunt",
+				"grunt.js"
+			],
+			[
+				"fix/dat",
+				"test/fixtures/datacenters.js"
+			],
+			[
+				"benchres",
+				"views/benchmarkResults.html"
+			],
+			[
+				"benexp",
+				"views/benchmarkExpert.html"
+			],
+			[
+				"fix/prov",
+				"test/fixtures/providers.js"
+			],
+			[
+				"fix/data",
+				"test/fixtures/datacenters.js"
+			],
+			[
+				"fixtur",
+				"test/fixtures/instanceTypes.json"
+			],
+			[
+				"5-up",
+				"models/migration/5-up.sql"
+			],
+			[
+				"modelarchi",
+				"models/Architecture.js"
+			],
+			[
+				"benchmar",
+				"lib/benchmark.js"
+			],
+			[
+				"model/cat",
+				"models/Catalog.js"
+			],
+			[
+				"mode/archi",
+				"models/Architecture.js"
+			],
+			[
+				"fixtur/in",
+				"test/fixtures/instances.json"
+			],
+			[
+				"instancepri",
+				"models/InstancePrice.js"
+			],
+			[
+				"en/t",
+				"locales/en/translation.json"
+			],
+			[
+				"fr.j",
+				"locales/fr.json"
+			],
+			[
+				"en.j",
+				"locales/en.json"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"moddata",
+				"models/Datacenter.js"
+			],
+			[
+				"fix/inst",
+				"test/fixtures/instancePrices.json"
+			],
+			[
+				"fixtinsprus",
+				"test/fixtures/instancePriceUsages.json"
+			],
+			[
+				"expe",
+				"expert-mode-queries.md"
+			],
+			[
+				"fixtur/disc",
+				"test/fixtures/discounts.json"
+			],
+			[
+				"modedisc",
+				"models/Discount.js"
+			],
+			[
+				"modeldata",
+				"models/Datacenter.js"
+			],
+			[
+				"test/fix/dat",
+				"test/fixtures/datacenters.js"
+			],
+			[
+				"test/unit",
+				"test/unit/benchmark.js"
+			],
+			[
+				"lib/be",
+				"lib/benchmark.js"
+			],
+			[
+				"model/ins",
+				"test/model/instance.js"
+			],
+			[
+				"fixt/insp",
+				"test/fixtures/instancePrices.json"
+			],
+			[
+				"fixtures/inst",
+				"test/fixtures/instances.json"
+			],
+			[
+				"test/funex",
+				"test/functional/expert.js"
+			],
+			[
+				"m/provi",
+				"models/ProviderOffer.js"
+			],
+			[
+				"swi",
+				"lib/view/swig_filters.js"
+			],
+			[
+				"ben",
+				"controllers/benchmark.js"
+			],
+			[
+				"5-d",
+				"models/migration-data/5-down.sql"
+			],
+			[
+				"v/benchres",
+				"views/benchmarkResults.html"
+			],
+			[
+				"mode/data",
+				"models/Datacenter.js"
+			],
+			[
+				"model/data",
+				"test/model/datacenter.js"
+			],
+			[
+				"async",
+				"node_modules/async/lib/async.js"
+			],
+			[
+				"gru",
+				"grunt.js"
+			],
+			[
+				"fix/instpr",
+				"test/fixtures/instancePrices.json"
+			],
+			[
+				"5.8",
+				"models/migration/5.8-up.sql"
+			],
+			[
+				"5.1",
+				"models/migration/5.1-up.sql"
+			],
+			[
+				"5.7",
+				"models/migration/5.7-up.sql"
+			],
+			[
+				"5.6",
+				"models/migration/5.6-up.sql"
+			],
+			[
+				"5.5",
+				"models/migration/5.5-up.sql"
+			],
+			[
+				"5.4",
+				"models/migration/5.4-up.sql"
+			],
+			[
+				"5.3-d",
+				"models/migration/5.3-down.sql"
+			],
+			[
+				"5.3",
+				"models/migration/5.3-up.sql"
+			],
+			[
+				"instance",
+				"models/InstanceType.js"
+			],
+			[
+				"fixt/inst",
+				"test/fixtures/instancePrices.json"
+			],
+			[
+				"contrben",
+				"controllers/benchmarkExpert.js"
+			],
+			[
+				"deve",
+				"config/development.yaml"
+			],
+			[
+				"testfunexp",
+				"test/functional/expert.js"
+			],
+			[
+				"modeinst",
+				"models/Instance.js"
+			],
+			[
+				"lib/exp",
+				"lib/expert.js"
+			],
+			[
+				"fixtureinstan",
+				"test/fixtures/instances.json"
+			],
+			[
+				"test/uni/al",
+				"test/unit/algorithm-fr.js"
+			],
+			[
+				"mo/",
+				"node_modules/nodemailer/node_modules/optimist/test/_/argv.js"
+			],
+			[
+				"mom",
+				"node_modules/moment/moment.js"
+			],
+			[
+				"ni",
+				"node_modules/async/index.js"
+			],
+			[
+				"sfj",
+				"lib/view/swig_filters.js"
+			],
+			[
+				"test",
+				"node_modules/express/test.js"
+			],
+			[
+				"q",
+				"node_modules/grunt/tasks/qunit.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true
+}
