@@ -1,3 +1,7 @@
+djebbz_ticket:
+    resource: "@DjebbzTicketBundle/Resources/config/routing.yml"
+    prefix:   /
+
 djebb_z_hello:
     resource: "@DjebbZHelloBundle/Resources/config/routing.yml"
     prefix:   /

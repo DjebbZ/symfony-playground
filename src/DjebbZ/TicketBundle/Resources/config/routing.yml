@@ -1,0 +1,3 @@
+djebbz_ticket_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: DjebbzTicketBundle:Default:index }
