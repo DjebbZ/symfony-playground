@@ -1,5 +1,5 @@
 djebbz_ticket_homepage:
-    path:  /
+    path:  /home
     defaults: { _controller: DjebbzTicketBundle:Default:index }
 
 djebbz_ticket_login:
