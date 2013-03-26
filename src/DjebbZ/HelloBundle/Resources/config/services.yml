@@ -1,0 +1,7 @@
+parameters:
+#    djebb_z_hello.example.class: DjebbZ\HelloBundle\Example
+
+services:
+#    djebb_z_hello.example:
+#        class: %djebb_z_hello.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

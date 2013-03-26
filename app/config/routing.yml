@@ -1,0 +1,4 @@
+djebb_z_hello:
+    resource: "@DjebbZHelloBundle/Resources/config/routing.yml"
+    prefix:   /
+
