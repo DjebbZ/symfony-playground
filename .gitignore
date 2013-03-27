@@ -6,5 +6,5 @@
 /vendor/
 /bin/
 /composer.phar
-/app/config/parameters.yaml
+/app/config/parameters.yml
 /*.sublime-workspace
