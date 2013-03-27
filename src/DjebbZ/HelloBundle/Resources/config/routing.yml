@@ -1,6 +1,0 @@
-djebbz_hello:
-    path:  /hello/{name}
-    defaults: { _controller: DjebbZHelloBundle:Default:index }
-
-    path: /request.json
-    defaults: { _controller: DjebbZHelloBundle:Default:indexJson }
