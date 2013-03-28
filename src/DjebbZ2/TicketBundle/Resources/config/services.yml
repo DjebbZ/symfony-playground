@@ -1,7 +1,0 @@
-parameters:
-#    djebbz_ticket.example.class: Djebbz\TicketBundle\Example
-
-services:
-#    djebbz_ticket.example:
-#        class: %djebbz_ticket.example.class%
-#        arguments: [@service_id, "plain_value", %parameter%]
