@@ -1,0 +1,19 @@
+{% extends '::base.html.twig' %}
+
+{% block metaTitle %}
+  All tickets - {{ parent() }}
+{% endblock %}
+
+{% block title %}Viewing all tickets{% endblock %}
+
+{% block content %}
+  {% for ticket in tickets %}
+    <div class="row">
+      <div class="columns small-12">
+        <h2>{{ ticket.title }}</h2>
+        <div><span class="radius secondary label">{{ ticket.created_at }}</span></div>
+        <p>{{ ticket.description }}</p>
+      </div>
+    </div>
+  {% endfor %}
+{% endblock %}
