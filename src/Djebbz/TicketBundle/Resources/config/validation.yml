@@ -1,0 +1,10 @@
+Djebbz\TicketBundle\Model\Ticket:
+
+    properties:
+
+        title:
+            - NotBlank: ~
+
+        description:
+            - NotBlank: ~
+            - MinLength: 2 # For 'Ok'
