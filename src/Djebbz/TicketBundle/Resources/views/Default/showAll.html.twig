@@ -7,6 +7,14 @@
 {% block title %}Viewing all tickets{% endblock %}
 
 {% block content %}
+  {% if message %}
+    <div class="row">
+      <div class="columns large-6 small-12 small-centered">
+        <div class="panel callout radius"><h5>{{ message }}</h5></div>
+      </div>
+    </div>
+  {% endif %}
+
   {% for ticket in tickets %}
     <div class="row">
       <div class="columns small-12">
