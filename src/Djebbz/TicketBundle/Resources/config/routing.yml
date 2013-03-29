@@ -12,7 +12,7 @@ djebbz_ticket_logout:
 
 djebbz_ticket_tickets:
     pattern:   /tickets
-    defaults:  { _controller: DjebbzTicketBundle:Default:showAllTicket }
+    defaults:  { _controller: DjebbzTicketBundle:Default:showAllTickets }
 
 djebbz_ticket_ticket:
     pattern:   /ticket/{id}

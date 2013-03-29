@@ -15,7 +15,7 @@ class DefaultController extends Controller
         );
     }
 
-    public function showAllTicketAction()
+    public function showAllTicketsAction()
     {
         $tickets = TicketQuery::create()
             ->find();
