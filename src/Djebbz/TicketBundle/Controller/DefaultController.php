@@ -22,13 +22,22 @@ class DefaultController extends Controller
 
         if (!$tickets) {
             throw $this->createNotFoundException(
-                'Sorry, no tickets found. You can create one !'
+                'No tickets found.'
             );
+        }
+
+        $message = '';
+
+        if (0 === count($tickets)) {
+            $message = 'Sorry, no tickets at all. Be the first to create one !';
         }
 
         return $this->render(
             'DjebbzTicketBundle:Default:showAll.html.twig',
-            array('tickets' => $tickets)
+            array(
+                'tickets' => $tickets,
+                'message' => $message,
+            )
         );
     }
 }
