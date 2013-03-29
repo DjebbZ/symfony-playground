@@ -3,7 +3,9 @@
 namespace Djebbz\TicketBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
+use Symfony\Component\HttpFoundation\Request;
 use Djebbz\TicketBundle\Model\TicketQuery;
+use Djebbz\TicketBundle\Model\Ticket;
 
 class DefaultController extends Controller
 {
@@ -38,6 +40,21 @@ class DefaultController extends Controller
                 'tickets' => $tickets,
                 'message' => $message,
             )
+        );
+    }
+
+    public function addTicketFormAction(Request $request)
+    {
+        $ticket = new Ticket();
+
+        $form = $this->createFormBuilder($ticket)
+            ->add('title', 'text')
+            ->add('description', 'textarea')
+            ->getForm();
+
+        return $this->render(
+            'DjebbzTicketBundle:Default:addTicketForm.html.twig',
+            array('form' => $form->createView())
         );
     }
 }

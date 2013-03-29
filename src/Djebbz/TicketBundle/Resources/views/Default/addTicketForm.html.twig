@@ -1,0 +1,16 @@
+{% extends '::base.html.twig' %}
+
+{% block metaTitle %}Add a ticket - {{ parent() }}{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="columns small-10 small-centered large-6 large-centered">
+        <h3>Add a ticket :</h3>
+        <form action="{{ path('djebbz_ticket_ticket_add') }}" method="post" {{ form_enctype(form) }}>
+            {{ form_widget(form) }}
+
+            <input class="button small radius success" type="submit" />
+        </form>
+    </div>
+</div>
+{% endblock %}
