@@ -33,7 +33,7 @@ class DefaultController extends Controller
         }
 
         return $this->render(
-            'DjebbzTicketBundle:Default:showAll.html.twig',
+            'DjebbzTicketBundle:Default:showAllTickets.html.twig',
             array(
                 'tickets' => $tickets,
                 'message' => $message,
