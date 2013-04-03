@@ -6,6 +6,8 @@ use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Request;
 use Djebbz\TicketBundle\Model\TicketQuery;
 use Djebbz\TicketBundle\Model\Ticket;
+use Djebbz\TicketBundle\Form\Type\TicketType;
+
 use \DateTime;
 
 class DefaultController extends Controller
@@ -48,10 +50,7 @@ class DefaultController extends Controller
     {
         $ticket = new Ticket();
 
-        $form = $this->createFormBuilder($ticket)
-            ->add('title', 'text')
-            ->add('description', 'textarea')
-            ->getForm();
+        $form = $this->createForm(new TicketType(), $ticket);
 
         if ($request->isMethod('POST')) {
             $form->bind($request);
