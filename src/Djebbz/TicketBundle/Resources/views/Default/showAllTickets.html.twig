@@ -17,10 +17,14 @@
 
   {% for ticket in tickets %}
     <div class="row">
-      <div class="columns small-12">
+      <div class="columns small-12 large-8">
         <h2>{{ ticket.title }}</h2>
-        <div><span class="radius secondary label">{{ ticket.created_at }}</span></div>
-        <p><a href="{{ path('djebbz_ticket_ticket', { 'slug': ticket.id }) }}">View ticket</a></p>
+      </div>
+      <div class="columns small-12 large-2">
+        <span class="radius secondary label">{{ ticket.createdAt|date("M, d Y") }}</span>
+      </div>
+      <div class="columns small-12 large-2">
+        <p><a href="{{ path('djebbz_ticket_ticket', { 'id': ticket.id }) }}">View ticket</a></p>
       </div>
     </div>
   {% endfor %}
