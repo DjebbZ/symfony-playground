@@ -14,16 +14,11 @@ djebbz_ticket_tickets:
     pattern:   /tickets
     defaults:  { _controller: DjebbzTicketBundle:Default:showAllTickets }
 
-djebbz_ticket_ticket_addForm:
+djebbz_ticket_ticket_add:
     pattern:   /ticket/add
-    defaults:  { _controller: DjebbzTicketBundle:Default:addTicketForm }
-    methods:    [GET]
+    defaults:  { _controller: DjebbzTicketBundle:Default:addTicket }
+    methods:    [GET, POST]
 
 djebbz_ticket_ticket:
     pattern:   /ticket/{id}
     defaults:  { _controller: DjebbzTicketBundle:Default:showTicket }
-
-djebbz_ticket_ticket_add:
-    pattern:   /ticket/add
-    defaults:  { _controller: DjebbzTicketBundle:Default:addTicket }
-    methods:    [POST]

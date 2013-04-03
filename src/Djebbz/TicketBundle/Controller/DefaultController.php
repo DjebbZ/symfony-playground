@@ -6,6 +6,7 @@ use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Request;
 use Djebbz\TicketBundle\Model\TicketQuery;
 use Djebbz\TicketBundle\Model\Ticket;
+use \DateTime;
 
 class DefaultController extends Controller
 {
@@ -43,7 +44,7 @@ class DefaultController extends Controller
         );
     }
 
-    public function addTicketFormAction(Request $request)
+    public function addTicketAction(Request $request)
     {
         $ticket = new Ticket();
 
@@ -52,9 +53,40 @@ class DefaultController extends Controller
             ->add('description', 'textarea')
             ->getForm();
 
+        if ($request->isMethod('POST')) {
+            $form->bind($request);
+
+            if ($form->isValid()) {
+                $ticket->setCreatedAt(new DateTime());
+                $ticket->save();
+
+                return $this->redirect($this->generateUrl(
+                    'djebbz_ticket_ticket',
+                    array('id' => $ticket->getId())
+                ));
+            }
+        }
+
         return $this->render(
-            'DjebbzTicketBundle:Default:addTicketForm.html.twig',
+            'DjebbzTicketBundle:Default:addTicket.html.twig',
             array('form' => $form->createView())
+        );
+    }
+
+    public function showTicketAction($id)
+    {
+        $ticket = TicketQuery::create()
+            ->findPK($id);
+
+        if (!$ticket) {
+            throw $this->createNotFoundException(
+                'No tickets found with id ' . $id
+            );
+        }
+
+        return $this->render(
+            'DjebbzTicketBundle:Default:showTicket.html.twig',
+            array('ticket' => $ticket)
         );
     }
 }
